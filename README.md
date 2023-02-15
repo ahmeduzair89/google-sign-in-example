@@ -1,16 +1,4 @@
-# google_signin_example
+# google-sign-in-example 
+Just a simple app which implements google sign-in in Flutter and GetX
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![output](https://user-images.githubusercontent.com/62350250/219023485-a65ec9d2-f1d6-4c2b-a5b6-c17ead436c28.gif)
